@@ -208,6 +208,10 @@ body {
     margin-bottom: 0;
   }
 
+  .card {
+    max-width: 350px;
+  }
+
   #feature-1 {
     grid-area: feature1;
   }
@@ -246,10 +250,6 @@ body {
       "feature1 feature3 feature4"
       ". feature3 .";
     align-items: start;
-  }
-
-  .card {
-    max-width: 350px;
   }
 
   #feature-1 {
