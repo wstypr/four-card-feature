@@ -97,6 +97,7 @@ textarea:not([rows]) {
 
 body {
   font-family: Poppins, sans-serif;
+  background-color: #fafafa;
 }
 
 .container {
@@ -186,7 +187,7 @@ body {
 
   .title,
   .tagline {
-    font-size: 2.25;
+    font-size: 2.25rem;
   }
 
   .intro {
@@ -214,17 +215,21 @@ body {
 
   #feature-1 {
     grid-area: feature1;
+    justify-self: center;
   }
 
   #feature-2 {
     grid-area: feature2;
+    justify-self: end;
   }
   #feature-3 {
     grid-area: feature3;
+    justify-self: start;
   }
 
   #feature-4 {
     grid-area: feature4;
+    justify-self: center;
   }
 }
 
