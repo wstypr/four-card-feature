@@ -115,6 +115,7 @@ body {
   font-weight: 100;
   line-height: 1.4;
   letter-spacing: 0.25px;
+  color: #4d4f62;
 }
 
 .tagline {
@@ -123,6 +124,7 @@ body {
   font-weight: 600;
   line-height: 1.4;
   letter-spacing: 0.25px;
+  color: #4d4f62;
 }
 
 .text {
@@ -130,6 +132,7 @@ body {
   font-weight: 400;
   line-height: 1.4;
   letter-spacing: 0.1px;
+  color: #4d4f62;
 }
 
 .card {
@@ -149,6 +152,7 @@ body {
   font-weight: 600;
   line-height: 1.35;
   letter-spacing: 0px;
+  color: #4d4f62;
 }
 
 .card-text {
@@ -157,6 +161,7 @@ body {
   font-weight: 400;
   line-height: 1.6;
   letter-spacing: 0.09px;
+  color: #6a7178;
 }
 
 .card-img {
